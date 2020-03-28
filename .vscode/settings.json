@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/aa67f7a5-8286-4476-a0d3-33a1b925a116/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/midasuserclient"
+}
