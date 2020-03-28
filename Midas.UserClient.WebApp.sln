@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midas.UserClient.WebApp", "Midas.UserClient.WebApp.csproj", "{E8135D24-BA71-4E7E-A7C8-7F6BF08C7FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8135D24-BA71-4E7E-A7C8-7F6BF08C7FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8135D24-BA71-4E7E-A7C8-7F6BF08C7FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8135D24-BA71-4E7E-A7C8-7F6BF08C7FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8135D24-BA71-4E7E-A7C8-7F6BF08C7FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B60296-7168-40F1-9DF6-9BAE43F979A7}
+	EndGlobalSection
+EndGlobal
