@@ -1,7 +1,7 @@
 <template>
   <div :class="{'swipe-info':true, 'down':down}">
     <div>
-      <img src="../assets/swipeup.png" />
+      <img src="/assets/swipeup.png" />
     </div>
     <div>
       <span>{{label}}</span>
@@ -45,6 +45,6 @@ export default {
 .swipe-info span {
   color: white;
   font-weight: bold;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 </style>
