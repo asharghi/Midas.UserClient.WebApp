@@ -11,7 +11,6 @@
 </template>
 <script>
 import { Swiper, SwiperSlide, directive } from "vue-awesome-swiper";
-import { dragscroll } from 'vue-dragscroll'
 import SwipeInfo from "@/components/SwipeInfo.vue";
 import "swiper/css/swiper.css";
 
@@ -48,8 +47,7 @@ export default {
     }
   },
   directives: {
-    swiper: directive,
-    'dragscroll': dragscroll
+    swiper: directive
   }
 };
 </script>
